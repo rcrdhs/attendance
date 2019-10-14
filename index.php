@@ -14,7 +14,7 @@
         -email address
         -contact number
      -->
-<h1 class='text-center'>Resistration for IT Conference</h1>
+<h1 class='text-center'>Registration for IT Conference</h1>
 
 <form method="post" action ="success.php">
     <div class="form-group">
